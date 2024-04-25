@@ -1,5 +1,5 @@
 {
-    "vpc-env-tf-actions-prod2E": {
+    "*": {
         "role": "arn:aws:iam::527207589752:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-527207589752"
